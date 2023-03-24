@@ -1,0 +1,21 @@
+#maze{
+    visibility:hidden;
+}
+
+#mazecanvas{
+    margin-left: 320px;
+    margin-top: 50px;
+    height: auto;
+    width: 50%;
+}
+
+h3{
+    text-align: center;
+}
+
+body{
+    height: auto;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
